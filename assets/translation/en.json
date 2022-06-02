@@ -1,0 +1,19 @@
+{
+    "Welcome_title": "Please select the language",
+    "Welcome_subtitle": "You can change the language at any time",
+    "Welcome_bt": "NEXT",
+    "Sign_title": "Please enter your mobile Number",
+    "Sign_subtitle": "You'll receive 4 digit code to verify next",
+    "Phone_number_label": " Mobile Number",
+    "Sign_bt": "CONTINUE",
+    "Otp_title": "Verify Phone",
+    "Otp_subtitle": "Code is sent to",
+    "Otp_notreceive": "Don't Receive The Code ? ",
+    "Otp_resend": "Request Again",
+    "Otp_bt": "VERIFY AND CONTINUE",
+    "Home_title": "Please Select Your Profile",
+    "Home_choice1": "Shipper",
+    "Homr_choice1_des": "description",
+    "Home_choice2": "Transporter",
+    "Homr_choice2_des": "description"
+}
