@@ -1,8 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_phone_auth_app/pages/languages.dart';
+import 'package:flutter_phone_auth_app/widgets/languages.dart';
 import 'package:flutter_phone_auth_app/pages/sign_in.dart';
-import 'package:flutter_phone_auth_app/pages/wave.dart';
+import 'package:flutter_phone_auth_app/widgets/wave.dart';
 import 'package:flutter_phone_auth_app/pages/welcome_page.dart';
 
 void main() async {
