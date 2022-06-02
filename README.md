@@ -1,6 +1,6 @@
 # flutter_phone_auth_app
 
-A new Flutter project.
+It's a Firebase Phone Auth Application 
 
 ## Getting Started
 
